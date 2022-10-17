@@ -10,7 +10,8 @@ Alumno: jvelaequiz
 	-Escribo los comandos de preparación de Github en nuestro equipo
 17/10/22: Cuarto Commit	
 	-Pongo todos los ficheros en carpetas.
-	-Explico como he desplegado la web en Netfily y copio aquí los logs del despliegue
+	-Explico como he desplegado la web en Netfily y copio aquí los logs del despliegue.
+	-Añado un imagen a la web.
 <------------------------------------------------------------------------------------->
 ### Actividad 1  ###
 # Comandos de instalación de Github por orden:
